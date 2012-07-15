@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+        <name>
+                <lang name="default">LiveStreet Teaker</lang>
+                <lang name="russian">ЛС Твикер</lang>
+        </name>
+        <author>
+                <lang name="default">Sergey Polischook</lang>
+                <lang name="russian">Сергей Полищук</lang>
+        </author>
+        <homepage>http://kotoblog.pp.ua</homepage>
+        <version>1.0.1</version>
+        <requires>
+                <livestreet>1.0</livestreet>
+                <plugins>
+
+                </plugins>
+        </requires>
+        <description>
+                <lang name="default">This plugin do some changes that for my own think must be.</lang>
+                <lang name="russian">Плагин дополняет и изменяет ЛС некоторыми полезными дополнениями.</lang>
+        </description>
+        <delegate>
+                <module></module>
+                <action></action>
+                <template></template>
+                <entity></entity>
+        </delegate>
+</plugin>
